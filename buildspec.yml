@@ -22,6 +22,6 @@ artifacts:
 
   files:
 
-    - target/hello-spring.war
+    - target/hello-spring.jar
 
   discard-paths: yes
